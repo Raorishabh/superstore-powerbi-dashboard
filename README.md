@@ -64,5 +64,6 @@ How to Use :
 
 👤 Author: Rishabh Kumar  
 💼 Open to Data Analyst opportunities  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/feed/) 
+
 
